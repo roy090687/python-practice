@@ -1,0 +1,12 @@
+[RUN] T1
+log: connecting
+log: sending request
+[PASS]
+[RUN] T2
+log: connecting
+log: timeout
+[FAILED]
+[RUN] T3
+log: not connected
+log: error
+[FAILED]

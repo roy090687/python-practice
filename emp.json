@@ -1,0 +1,29 @@
+{
+  "company": "TechWorld",
+  "employees": [
+    {
+      "id": 101,
+      "name": "Alice",
+      "role": "Developer",
+      "skills": ["Python", "Django", "React"],
+      "projects": [
+        {"name": "Inventory System", "status": "Completed"},
+        {"name": "Chatbot", "status": "Ongoing"}
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Bob",
+      "role": "Data Scientist",
+      "skills": ["Python", "Machine Learning", "SQL"],
+      "projects": [
+        {"name": "Recommendation Engine", "status": "Completed"},
+        {"name": "Fraud Detection", "status": "Ongoing"}
+      ]
+    }
+  ],
+  "location": {
+    "city": "Bengaluru",
+    "country": "India"
+  }
+}

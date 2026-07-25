@@ -1,0 +1,8 @@
+[RUN] T1
+Started at: 10:00
+Finished at: 10:05
+[PASS]
+[RUN] T2
+Started at: 10:10
+Finished at: 10:15
+[FAILED]

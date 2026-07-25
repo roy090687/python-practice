@@ -1,0 +1,31 @@
+{
+  "company": "TechCorp",
+  "departments": [
+    {
+      "name": "Engineering",
+      "employees": [
+        {"id": 101, "name": "Alice", "skills": ["Python", "C++", "Docker"], "salary": 250000},
+        {"id": 102, "name": "Bob", "skills": ["Java", "Spring", "Kubernetes"], "salary": 270000}
+      ]
+    },
+    {
+      "name": "QA",
+      "employees": [
+        {"id": 201, "name": "Charlie", "skills": ["Selenium", "Pytest", "API Testing"], "salary": 72000},
+        {"id": 202, "name": "David", "skills": ["Cypress", "Playwright", "ExcelJS"], "salary": 68000}
+      ]
+    },
+    {
+      "name": "DevOps",
+      "employees": [
+        {"id": 301, "name": "Eve", "skills": ["AWS", "Terraform", "Jenkins"], "salary": 105000},
+        {"id": 302, "name": "Frank", "skills": ["Azure", "CI/CD", "GitHub Actions"], "salary": 98000}
+      ]
+    }
+  ],
+  "projects": [
+    {"project_id": "P1", "name": "Automation Framework", "department": "QA", "budget": 150000},
+    {"project_id": "P2", "name": "Cloud Migration", "department": "DevOps", "budget": 300000},
+    {"project_id": "P3", "name": "AI Module", "department": "Engineering", "budget": 500000}
+  ]
+}

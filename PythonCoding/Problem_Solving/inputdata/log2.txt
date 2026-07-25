@@ -1,0 +1,12 @@
+[RUN] T1
+[PASS]
+[RUN] T2
+[FAILED]
+[RUN] T3
+[PASS]
+[RUN] T4
+[SKIPPED]
+[RUN] T5
+[FAILED]
+[RUN] T6
+[PASS]
