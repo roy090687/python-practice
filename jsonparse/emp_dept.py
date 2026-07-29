@@ -31,6 +31,7 @@ def get_highest_paid_employee(json_data):
 
     return highest_paid_employee, highest_salary
 
+
 def get_highest_paid_employee_without_sorting(json_data):
     emp_sal_list = []
     departments = json_data["departments"]

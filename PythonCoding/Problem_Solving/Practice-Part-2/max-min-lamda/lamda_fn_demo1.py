@@ -5,6 +5,7 @@ emp_sal_list = [
 ]
 
 highest = max(emp_sal_list, key=lambda e: e["salary"])
+print(highest)
 lowest = min(emp_sal_list, key=lambda e: e["salary"])
 
 print("Highest:", highest)

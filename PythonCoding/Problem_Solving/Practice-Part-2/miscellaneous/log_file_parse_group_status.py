@@ -27,6 +27,7 @@ def get_result_group_status(filename):
 
 base_dir = Path(__file__).parent  # current script folder
 print("PATH", base_dir)
+print(base_dir.parent)
 filepath = base_dir.parent.parent / "inputdata" / "log2.txt"
 
 output = get_result_group_status(filepath)

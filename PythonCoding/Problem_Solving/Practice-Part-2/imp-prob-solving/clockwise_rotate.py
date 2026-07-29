@@ -8,5 +8,6 @@ while count < n:
         arr[i] = arr[i-1]
     arr[0] = temp
     count += 1
+    # print(" ".join(map(str, arr)))
     print(*arr)  # *arr is is positional argument unpacking
 

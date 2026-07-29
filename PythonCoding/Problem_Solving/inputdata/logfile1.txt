@@ -1,0 +1,21 @@
+2026-07-25 10:15:23 INFO User John logged in
+2026-07-25 10:16:01 ERROR404 Page not found
+2026-07-25 10:16:45 ERROR500 Internal server error
+2026-07-25 10:17:12 INFO User Alice uploaded file
+2026-07-25 10:18:33 ERROR404 Page not found
+2026-07-25 10:19:05 ERROR403 Forbidden access
+2026-07-25 10:20:47 ERROR500 Internal server error
+2026-07-25 10:21:30 ERROR401 Unauthorized access
+2026-07-25 10:22:11 INFO User Bob logged out
+2026-07-25 10:23:55 ERROR500 Internal server error
+2026-07-25 10:24:40 ERROR403 Forbidden access
+2026-07-25 10:25:18 ERROR404 Page not found
+2026-07-25 10:26:02 ERROR502 Bad gateway
+2026-07-25 10:27:44 INFO System backup completed
+2026-07-25 10:28:19 ERROR404 Page not found
+2026-07-25 10:29:01 ERROR403 Forbidden access
+2026-07-25 10:30:15 ERROR500 Internal server error
+2026-07-25 10:31:22 ERROR408 Request timeout
+2026-07-25 10:32:10 ERROR401 Unauthorized access
+2026-07-25 10:33:45 ERROR502 Bad gateway
+2026-07-25 10:34:59 ERROR404 Page not found
