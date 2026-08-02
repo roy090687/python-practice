@@ -33,3 +33,4 @@ print(f"{input3} --> {is_balanced(input3)}")
 print(f"{input4} --> {is_balanced(input4)}")
 print(f"{input5} --> {is_balanced(input5)}")
 print(f"{input6} --> {is_balanced(input6)}")
+

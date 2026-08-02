@@ -17,10 +17,10 @@ def get_result_log_status(filename):
     for line in lines:
         line = line.strip()
         if line.startswith('[RUN]'):
-            tc_name = line.split(" ")[1]
-        if line.startswith('log'):
+            tc_name = line.split()[1]
+        elif line.startswith('log'):
             logs.append(line.split(":")[1].strip())
-        if line in ('[PASS]', '[FAILED]', '[SKIPPED]'):
+        elif line in ('[PASS]', '[FAILED]', '[SKIPPED]'):
             if tc_name:
                 status = line.strip("[]")
                 res["status"] = status
